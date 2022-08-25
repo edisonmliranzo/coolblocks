@@ -9,6 +9,7 @@ export default function Navbar() {
     "Metaverse",
     "Play2Earn",
     "Likesmeet",
+    "Developers",
   ];
 
   return (
