@@ -14,14 +14,14 @@ export default function Hero() {
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
               Build fast, low cost, Solidity-compatible dApps
     Launch Ethereum dApps that confirm transactions instantly and process thousands of transactions per second, far beyond any decentralized blockchain platform today.
-            </p>
-    <iframe
+         <iframe
 src="https://gateway.ipfscdn.io/ipfs/Qma5FgmS9s3hkQrURfG4XDnh5Dxp9Fx9ZjBYkPFUNdQwfi/signature-drop.html?contract=0xc9EF6FFD0f7115b4E1527C263fcB0C0585FB283b&chainId=137"
 width="600px"
 height="600px"
 style="max-width:100%;"
 frameborder="0"
-></iframe>
+></iframe>   
+    </p>
 
             <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
               <a
