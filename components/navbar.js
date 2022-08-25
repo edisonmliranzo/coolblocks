@@ -5,8 +5,9 @@ import { Disclosure } from "@headlessui/react";
 export default function Navbar() {
   const navigation = [
     "Home",
-    "NFTs MarketPlace",
+    "NFTs Marketplace",
     "Metaverse",
+    "Dex",
     "Play2Earn",
     "Likesmeet",
     "Developers",
