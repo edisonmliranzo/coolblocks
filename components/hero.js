@@ -12,9 +12,8 @@ export default function Hero() {
               Free Landing Page Template for startups
             </h1>
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-              Nextly is a free landing page & marketing website
-              template for startups and indie projects. Its built with
-              Next.js & TailwindCSS. And its completely open-source.
+              Build fast, low cost, Solidity-compatible dApps
+    Launch Ethereum dApps that confirm transactions instantly and process thousands of transactions per second, far beyond any decentralized blockchain platform today.
             </p>
 
             <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
