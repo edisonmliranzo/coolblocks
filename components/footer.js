@@ -119,14 +119,14 @@ export default function Footer() {
             href="https://likesmeet.com/"
             target="_blank"
             rel="noopener">
-            Web3Templates.
+            Likesmeet.
           </a>{" "}
           Illustrations from{" "}
           <a
             href="https://likesmeet.com/"
             target="_blank"
             rel="noopener ">
-            Glazestock
+            Likesmeet
           </a>
         </div>
       </Container>
