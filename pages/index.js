@@ -31,7 +31,7 @@ export default function Home() {
         <title>CoolBlocks is a low-cost and lightning-fast Ethereum L2 blockchain. Fastest & Lowest Fee, Secure & Scalable Blockchain Ecosystem.</title>
         <meta
           name="description"
-          content="Nextly is a free landing page template built with next.js & Tailwind CSS"
+          content=" CoolBlocks is committed to fostering the growth of Web3 applications by providing the infrastructure needed for Web3."
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -39,32 +39,27 @@ export default function Home() {
       <Navbar />
       <Hero />
       <SectionTitle
-        pretitle="Nextly Benefits"
-        title=" Why should you use this landing page">
-        Nextly is a free landing page & marketing website template for startups
-        and indie projects. Its built with Next.js & TailwindCSS. And its
-        completely open-source.
+        pretitle="CoolBlocks is Solidity-compatible. All of your favorite tools like Remix, Truffle, and Tenderly work out of the box."
+        title=" Build Ethereum dApps Without Limits">
+        Lowest costs to deploy contracts
+Deploying smart contracts on CoolBlocks cost just a tenth of what they cost on Ethereum. High gas fees, front-running, and other adverse effects of slow smart contract blockchains are now a thing of the past.
       </SectionTitle>
       <Benefits data={benefitOne} />
       <Benefits imgPos="right" data={benefitTwo} />
       <SectionTitle
         pretitle="Watch a video"
-        title="Learn how to fullfil your needs">
-        This section is to highlight a promo or demo video of your product.
-        Analysts says a landing page with video has 3% more conversion rate. So,
-        don't forget to add one. Just like this.
+        title="Decentralized Finance (DeFi)">
+        DeFi is rapidly growing beyond the limits of one chain. CoolBlocks is fully compatible with Ethereum assets, apps, and tooling with faster speeds, higher throughput, and lower fees.
       </SectionTitle>
       <Video />
       <SectionTitle
-        pretitle="Testimonials"
-        title="Here's what our customers said">
-        Testimonails is a great way to increase the brand trust and awareness.
-        Use this section to highlight your popular customers.
+        pretitle="Learn what use cases benefit most by leveraging the high-performance capabilities of Avalanche."
+        title="Digital Collectibles">
+        Mint your own digital collectibles in seconds for fees less than a cent. Digitally prove ownership, and streamline value flow. Create and share art, collectibles, and more with all the benefits and none of the downside.
       </SectionTitle>
       <Testimonials />
-      <SectionTitle pretitle="FAQ" title="Frequently Asked Questions">
-        Answer your customers possible questions here, it will increase the
-        conversion rate as well as support or chat requests.
+      <SectionTitle pretitle="FAQ" title="Institutions, Enterprises, and Governments">
+        CoolBlocks is the best verifiable platform for institutions, enterprises, and governments. Launch assets, build applications, and create subnets with complete control over your implementation with compliance, data security, and other rulesets built into the foundation.
       </SectionTitle>
       <Faq />
       <Cta />
