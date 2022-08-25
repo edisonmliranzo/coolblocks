@@ -11,46 +11,46 @@ import benefitOneImg from "../public/img/benefit-one.png";
 import benefitTwoImg from "../public/img/benefit-two.png";
 
 const benefitOne = {
-  title: "Highlight your benefits",
-  desc: "You can use this space to highlight your first benefit or a feature of your product. It can also contain an image or Illustration like in the example along with some bullet points.",
+  title: "Bringing the world to Ethereum",
+  desc: "We believes in Web3 for all. CoolBlocks is a decentralised Ethereum scaling platform that enables developers to build scalable user-friendly dApps with low transaction fees without ever sacrificing on security.",
   image: benefitOneImg,
   bullets: [
     {
-      title: "Understand your customers",
-      desc: "Then explain the first point breifly in one or two lines.",
+      title: "ETH Compatibility",
+      desc: "ndustry dominance, established tech stack, tools, languages, standards, enterprise adoption",
       icon: <EmojiHappyIcon />,
     },
     {
-      title: "Improve acquisition",
-      desc: "Here you can add the next benefit point.",
+      title: "Scalability",
+      desc: "Dedicated blockchains, scalable consensus algorithms, custom Wasm execution environments",
       icon: <ChartSquareBarIcon />,
     },
     {
-      title: "Drive customer retention",
-      desc: "This will be your last bullet point in this section.",
+      title: "Security",
+      desc: "Modular ''security as a service'', provided either by Ethereum or by a pool of professional validators",
       icon: <CursorClickIcon />,
     },
   ],
 };
 
 const benefitTwo = {
-  title: "Offer more benefits here",
-  desc: "You can use this same layout with a flip image to highlight your rest of the benefits of your product. It can also contain an image or Illustration as above section along with some bullet points.",
+  title: "Developer Experience",
+  desc: "Equivalent to Ethereum, no protocol level knowledge required, no token deposits, fees or permissions",
   image: benefitTwoImg,
   bullets: [
     {
       title: "Mobile Responsive Template",
-      desc: "Nextly is designed as a mobile first responsive template.",
+      desc: "CoolBlocks is committed to fostering the growth of Web3 applications by providing the infrastructure needed for Web3.",
       icon: <DeviceMobileIcon />,
     },
     {
-      title: "Powered by Next.js & TailwindCSS",
-      desc: "This template is powered by latest technologies and tools.",
+      title: "Launch customized blockchains, private & public",
+      desc: "Over 100+ dApps have used CoolBlocks to scale their performance",
       icon: <AdjustmentsIcon />,
     },
     {
-      title: "Dark & Light Mode",
-      desc: "Nextly comes with a zero-config light & dark mode. ",
+      title: "Scale to 1000s of validators with minimal hardware",
+      desc: "Stake, or lock up, your CBT to help process transactions and further secure the platform–providing security guarantees well-above the 51% standard. You probably have the hardware required to join the platform. ",
       icon: <SunIcon />,
     },
   ],
