@@ -35,17 +35,17 @@ export default function Faq() {
 
 const faqdata = [
   {
-    question: "Is this template completely free to use?",
-    answer: "Yes, this template is completely free to use.",
+    question: "Carbon footprint?",
+    answer: "Yes, Offset carbon footprints for Polygon, and buy extra credits to become carbon negative.",
   },
   {
-    question: "Can I use it in a commercial project?",
-    answer: "Yes, this you can.",
+    question: "Donations",
+    answer: "Make donations easy for NGOs that fight climate change.",
   },
   {
-    question: "What is your refund policy? ",
+    question: "Resources? ",
     answer:
-      "If you're unhappy with your purchase for any reason, email us within 90 days and we'll refund you in full, no questions asked.",
+      "Provide resources for ecosystem partners who want to offset their carbon footprint.",
   },
   {
     question: "Do you offer technical support? ",
