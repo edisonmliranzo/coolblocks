@@ -15,6 +15,13 @@ export default function Hero() {
               Build fast, low cost, Solidity-compatible dApps
     Launch Ethereum dApps that confirm transactions instantly and process thousands of transactions per second, far beyond any decentralized blockchain platform today.
             </p>
+    <iframe
+src="https://gateway.ipfscdn.io/ipfs/Qma5FgmS9s3hkQrURfG4XDnh5Dxp9Fx9ZjBYkPFUNdQwfi/signature-drop.html?contract=0xc9EF6FFD0f7115b4E1527C263fcB0C0585FB283b&chainId=137"
+width="600px"
+height="600px"
+style="max-width:100%;"
+frameborder="0"
+></iframe>
 
             <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
               <a
@@ -62,7 +69,7 @@ export default function Hero() {
       <Container>
         <div className="flex flex-col justify-center">
           <div className="text-xl text-center text-gray-700 dark:text-white">
-            Trusted by <span className="text-indigo-600">2000+</span>{" "}
+            Trusted by <span className="text-indigo-600">1000+</span>{" "}
             customers worldwide
           </div>
 
