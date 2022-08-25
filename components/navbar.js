@@ -6,9 +6,9 @@ export default function Navbar() {
   const navigation = [
     "Home",
     "NFTs Marketplace",
-    "Metaverse",
     "Dex",
     "Play2Earn",
+    "Metaverse",
     "Likesmeet",
     "Developers",
   ];
