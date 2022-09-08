@@ -28,10 +28,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>CoolBlocks is a low-cost and lightning-fast Ethereum L2 blockchain. Fastest & Lowest Fee, Secure & Scalable Blockchain Ecosystem.</title>
+        <title>CoolBlocks555 is a low-cost and lightning-fast Ethereum L2 blockchain. Fastest & Lowest Fee, Secure & Scalable Blockchain Ecosystem.</title>
         <meta
           name="description"
-          content=" CoolBlocks is committed to fostering the growth of Web3 applications by providing the infrastructure needed for Web3."
+          content=" CoolBlocksnft is committed to fostering the growth of Web3 applications by providing the infrastructure needed for Web3."
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
