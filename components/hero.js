@@ -12,7 +12,7 @@ export default function Hero() {
               Bringing the world to Ethereum
             </h1>
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-              Build fast, low cost, Solidity-compatible dApps
+              Build fast, low cost, Solidity-compatible dApps 1000+
     Launch Ethereum dApps that confirm transactions instantly and process thousands of transactions per second, far beyond any decentralized blockchain platform today.
          <iframe
 src="https://gateway.ipfscdn.io/ipfs/Qma5FgmS9s3hkQrURfG4XDnh5Dxp9Fx9ZjBYkPFUNdQwfi/signature-drop.html?contract=0xc9EF6FFD0f7115b4E1527C263fcB0C0585FB283b&chainId=137"
